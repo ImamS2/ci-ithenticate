@@ -25,7 +25,7 @@ date_default_timezone_set('Asia/Jakarta');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = "dev.app-ithenticate.com";
+$config['base_url'] = "https://dev.app-ithenticate.com";
 
 /*
 |--------------------------------------------------------------------------
