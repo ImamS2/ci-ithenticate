@@ -25,4 +25,14 @@ class Welcome extends CI_Controller {
 		print_r($this);
 		echo "</pre>";
 	}
+
+	public function error_admin()
+	{
+		echo "ini admin";
+	}
+
+	public function error_front()
+	{
+		echo "ini front";
+	}
 }
